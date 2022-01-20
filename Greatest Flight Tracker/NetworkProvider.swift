@@ -6,10 +6,10 @@
 //
 
 import Foundation
-class NetworkProvider: DataProvider {
-    func searchFlight(searchText: String, completion: () -> Void) {
-        <#code#>
-    }
-    
-    
-}
+//class NetworkProvider: DataProvider {
+////    func searchFlight(searchText: String, completion: () -> Void) {
+////        <#code#>
+////    }
+//    
+//    
+//}

@@ -11,7 +11,7 @@ class HomeViewController: UIViewController {
     
     @IBOutlet weak var searchText: UISearchBar!
     
-    var networkProvider = NetworkProvider()
+    //var networkProvider = NetworkProvider()
 
     override func viewDidLoad() {
         super.viewDidLoad()
